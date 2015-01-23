@@ -1,0 +1,14 @@
+.container {
+  width: 95%;
+  max-width:1024px;
+}
+.thumbnail>img,
+.thumbnail a>img {
+  max-width: 7em;
+}
+.ng-invalid.ng-dirty {
+  border-color: red; 
+}
+.ng-valid.ng-dirty {
+  border-color: green; 
+}
